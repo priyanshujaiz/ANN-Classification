@@ -5,3 +5,5 @@ numpy
 tensorboard
 matplotlib
 streamlit
+
+scikeras
